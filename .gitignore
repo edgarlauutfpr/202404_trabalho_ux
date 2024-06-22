@@ -162,4 +162,4 @@ cython_debug/
 #.idea/
 
 # Do projeto
-data/*
+data/1. Suite of Food Security Indicators/*
