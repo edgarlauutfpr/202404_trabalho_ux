@@ -1,0 +1,8 @@
+Flag,Description
+A,Official figure
+E,Estimated value
+I,Imputed value
+M,Missing value (data cannot exist; not applicable)
+O,Missing value
+Q,Missing value; suppressed
+U,Low reliability
