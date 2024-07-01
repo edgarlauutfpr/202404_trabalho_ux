@@ -1,0 +1,32 @@
+* Edgar Rolland Chiw Lau
+    AI Canvas
+    Pesquisa das bases
+    Preparação da base SFSI
+    Modelo de clustering
+    Análises de dados do cluster com Brasil
+    Organização do GitHub
+    Ajustes da apresentação
+
+* Emerson Adam
+    AI Canvas
+    Pesquisa das bases
+    Preparação da base CoAHD
+    Preparação da base HDI
+    Unificação das bases levantadas
+    Análises do indicador de % de população incapaz de dieta saudável
+    Análises de correlação individuais com o indicador de % de população incapaz de dieta saudável
+    Geração da apresentação inicial
+
+* Jailson Silvério Pena
+    AI Canvas
+    Pesquisa das bases
+    Preparação da base SDBG
+    Pesquisas sobre indicadores e textos de dieta saudável
+    Montagem da apresentação
+    
+* Vincia Ottmann
+    AI Canvas
+    Pesquisa das bases
+    Montagem da apresentação
+    Estudo de markup
+    Ajustes na apresentação
