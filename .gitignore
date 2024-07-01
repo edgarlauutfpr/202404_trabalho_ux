@@ -162,4 +162,5 @@ cython_debug/
 #.idea/
 
 # Do projeto
-data/1. Suite of Food Security Indicators/*
+notebooks/04_el_clustering_model - Copia com PCA.ipynb
+notebooks/04_el_clustering_model.ipynb
